@@ -43,21 +43,6 @@ Dyslexia and ADHD are neurodevelopmental disorders that can significantly impact
 
 ### Installation
 
-Clone the repository:
-   ```
-   git clone https://github.com/AFLucas-UOM/ARI2131-AI-Driven-Early-Detection-System-for-Dyslexia-and-ADHD.git
-   ```
-   
-## Contributions
-
-Contributions to improve the functionality or add new features are welcome! Please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
 This project was developed as part of an academic assignment. Unit: `ARI2131` at the `University of Malta`.
 
 ## Contact
